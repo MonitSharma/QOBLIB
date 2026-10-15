@@ -1,0 +1,72 @@
+{
+  "submission": "20261014_QAOAColumnGeneration_Sharma",
+  "paradigm": "Quantum Simulator",
+  "qpu_execution": false,
+  "public_solver_repository": "https://github.com/MonitSharma/quantum_optimization_benchmarking",
+  "public_solver_commit": "cb000afafee1f25a3885b0b24427e57f5aa6b50b",
+  "upstream_qoblib_commit": "8d0104f5af0cce25de0c973e7a731d138516e665",
+  "archived_runs_git_blob": "5b2599c30ce3d6dde2b4ef2be2d76733c2be1847",
+  "archived_runs_sha256": "1e6a5591b72d418ee7e79b51dcfc4698a45fe748087d3a5c9a8665b864e4e6ef",
+  "source_files": {
+    "vrp/qvrp/pipeline.py": {
+      "git_blob": "25b82fe37baf3990e124da83fb4fbd791bd23a9b",
+      "sha256": "05e289120437782c9a91a78458d1ad2858c1c5051b671c0bd8ab42dd1b9df543"
+    },
+    "vrp/qvrp/pricing.py": {
+      "git_blob": "715d8a7533ce9d5927a9bc7bb399ec30e8f06e12",
+      "sha256": "bd90b762dbc7fe99496068eea0a29a8d41afb0e66bfaa46cb6c2466dc7501425"
+    },
+    "vrp/qvrp/master.py": {
+      "git_blob": "07020360bb7079d9641a7a578b736dc08225a253",
+      "sha256": "9e6ac45a285a2be24065d0bcae103b003ac3592ff015af5f415f2e0508fcdd51"
+    },
+    "vrp/qvrp/colgen.py": {
+      "git_blob": "c8b9b8cb5fef73205a67309f054c0aa9abcbb3e6",
+      "sha256": "f94ed9ffb654277d225c3e265a36eec5164e64e4ff28aa02f838d2411ad81b8f"
+    },
+    "vrp/qvrp/submit.py": {
+      "git_blob": "2b407bb8ef45c78dc10566920b9f208b382b6e1b",
+      "sha256": "8c235708c161121f0b139dee9e1f3fde59ad68e7360e0a1901b09014f6ffe3b5"
+    },
+    "qobench/quantum/qaoa.py": {
+      "git_blob": "ed5b7e9442fccaf92b1df0463aa82cb28017e09b",
+      "sha256": "e5d384d88bdcf94702406d0a57489910604493115fe413fbe9e571df1f7b7558"
+    },
+    "qobench/quantum/subspace.py": {
+      "git_blob": "50a2cf5b845fd14e9400e7f70a5cec7e8c9e2771",
+      "sha256": "5374b67dee1c9b75197eec16fce4abab3fcb71d3797f848534a87b850d9e2547"
+    }
+  },
+  "reporting_changes": [
+    "Reference pinned to public source",
+    "Circuit counts separated from variable-sized classical master",
+    "Unavailable historical coefficient metadata set N/A",
+    "Scope and stopping rules explained",
+    "Historical AI disclosure preserved unchanged for human review"
+  ],
+  "measured_results_modified": false,
+  "verification_environment": {
+    "python": "3.12.14 (main, Sep 24 2026, 17:57:31) [MSC v.1944 64 bit (AMD64)]",
+    "packages": {
+      "numpy": "2.5.3",
+      "scipy": "1.18.1",
+      "numba": "0.68.0",
+      "llvmlite": "0.50.0",
+      "qiskit": "2.5.2",
+      "qiskit-aer": "0.17.2",
+      "pytest": "9.1.1",
+      "rustworkx": "0.18.1",
+      "dill": "0.4.1",
+      "stevedore": "5.9.1",
+      "typing-extensions": "4.16.0",
+      "psutil": "7.2.2",
+      "python-dateutil": "2.9.0.post0"
+    }
+  },
+  "validation": {
+    "independent_witnesses": 55,
+    "archived_run_plans": 1100,
+    "official_rust": "55/55 passed; see official_validation.json",
+    "canonical_submission_validator": "55/55 passed, 0 failed; official auto-checker enabled; misc/canonical_validation.log"
+  }
+}
