@@ -45,7 +45,7 @@
     "Restricted-pool LP look-ahead score and heuristic pricing terminology",
     "Instance-level paired comparison emphasized",
     "Unchanged historical source/campaign and reference solvers bundled for public access",
-    "AI-assisted category confirmed by submitter; Codex role and unrecorded model version disclosed"
+    "AI-assisted category confirmed by submitter; Claude Code / Claude Opus 5.5 and OpenAI Codex / GPT-6.1 Sol identified by submitter"
   ],
   "measured_results_modified": false,
   "verification_environment": {
@@ -82,5 +82,17 @@
     "files": 202
   },
   "archived_runs_working_copy_sha256_previously_recorded": "1e6a5591b72d418ee7e79b51dcfc4698a45fe748087d3a5c9a8665b864e4e6ef",
-  "archived_runs_hash_note": "archived_runs_sha256 hashes exact Git-blob bytes in the ZIP; earlier working-copy hash can differ due to CRLF conversion."
+  "archived_runs_hash_note": "archived_runs_sha256 hashes exact Git-blob bytes in the ZIP; earlier working-copy hash can differ due to CRLF conversion.",
+  "ai_disclosure": {
+    "category": "assisted",
+    "models_confirmed_by_submitter": [
+      "Claude Opus 5.5",
+      "GPT-6.1 Sol"
+    ],
+    "tools": [
+      "Claude Code",
+      "OpenAI Codex"
+    ],
+    "confirmation_date": "2026-10-20"
+  }
 }
