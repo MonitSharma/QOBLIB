@@ -264,12 +264,12 @@ GUROBI fails to solve dense instances of size 6 optimally within one hour.
 | B4_4_8 | 4 | optimal | reference | — |
 | B4_4_9 | 4 | optimal | reference | — |
 | B5_25_1 | 14 | optimal | reference | — |
-| B5_25_10 | 14 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B5_25_2 | 14 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
+| B5_25_10 | 14 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B5_25_2 | 14 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
 | B5_25_3 | 14 | optimal | reference | — |
 | B5_25_4 | 13 | optimal | reference | — |
-| B5_25_5 | 14 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B5_25_6 | 14 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
+| B5_25_5 | 14 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B5_25_6 | 14 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
 | B5_25_7 | 14 | optimal | reference | — |
 | B5_25_8 | 14 | optimal | reference | — |
 | B5_25_9 | 14 | optimal | reference | — |
@@ -293,16 +293,16 @@ GUROBI fails to solve dense instances of size 6 optimally within one hour.
 | B64_64_7 | 267 | best known | [20260805_BirkhoffPlus_Valls](../submissions/20260805_BirkhoffPlus_Valls) | 2026-08-05 |
 | B64_64_8 | 267 | best known | [20260805_BirkhoffPlus_Valls](../submissions/20260805_BirkhoffPlus_Valls) | 2026-08-05 |
 | B64_64_9 | 274 | best known | [20260805_BirkhoffPlus_Valls](../submissions/20260805_BirkhoffPlus_Valls) | 2026-08-05 |
-| B6_36_1 | 22 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_10 | 20 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_2 | 22 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_3 | 21 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_4 | 22 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_5 | 22 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_6 | 22 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_7 | 22 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_8 | 22 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
-| B6_36_9 | 22 | best known | [20260111_Gurobi_Schicker](../submissions/20260111_Gurobi_Schicker) | 2026-01-10 |
+| B6_36_1 | 22 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_10 | 20 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_2 | 22 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_3 | 21 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_4 | 22 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_5 | 22 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_6 | 22 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_7 | 22 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_8 | 22 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
+| B6_36_9 | 22 | best known | [20260111_MIP_Schicker](../submissions/20260111_MIP_Schicker) | 2026-01-10 |
 | B6_6_1 | 6 | optimal | reference | — |
 | B6_6_10 | 6 | optimal | reference | — |
 | B6_6_2 | 6 | optimal | reference | — |
