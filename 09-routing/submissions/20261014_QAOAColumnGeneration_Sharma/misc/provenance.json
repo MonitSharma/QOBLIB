@@ -2,11 +2,9 @@
   "submission": "20261014_QAOAColumnGeneration_Sharma",
   "paradigm": "Quantum Simulator",
   "qpu_execution": false,
-  "public_solver_repository": "https://github.com/MonitSharma/quantum_optimization_benchmarking",
-  "public_solver_commit": "cb000afafee1f25a3885b0b24427e57f5aa6b50b",
   "upstream_qoblib_commit": "8d0104f5af0cce25de0c973e7a731d138516e665",
   "archived_runs_git_blob": "5b2599c30ce3d6dde2b4ef2be2d76733c2be1847",
-  "archived_runs_sha256": "1e6a5591b72d418ee7e79b51dcfc4698a45fe748087d3a5c9a8665b864e4e6ef",
+  "archived_runs_sha256": "ba14b66d3f32df4ed979df1700f1554685bd0fee34c37c28d9d9bc0add8ed3c6",
   "source_files": {
     "vrp/qvrp/pipeline.py": {
       "git_blob": "25b82fe37baf3990e124da83fb4fbd791bd23a9b",
@@ -42,7 +40,12 @@
     "Circuit counts separated from variable-sized classical master",
     "Unavailable historical coefficient metadata set N/A",
     "Scope and stopping rules explained",
-    "Historical AI disclosure preserved unchanged for human review"
+    "Historical AI disclosure preserved unchanged for human review",
+    "Explicit classical optimization roles and cardinality-only preservation",
+    "Restricted-pool LP look-ahead score and heuristic pricing terminology",
+    "Instance-level paired comparison emphasized",
+    "Unchanged historical source/campaign and reference solvers bundled for public access",
+    "AI-assisted category confirmed by submitter; Codex role and unrecorded model version disclosed"
   ],
   "measured_results_modified": false,
   "verification_environment": {
@@ -68,5 +71,16 @@
     "archived_run_plans": 1100,
     "official_rust": "55/55 passed; see official_validation.json",
     "canonical_submission_validator": "55/55 passed, 0 failed; official auto-checker enabled; misc/canonical_validation.log"
-  }
+  },
+  "original_solver_repository": "https://github.com/MonitSharma/quantum_optimization_benchmarking",
+  "original_solver_commit": "cb000afafee1f25a3885b0b24427e57f5aa6b50b",
+  "original_repository_public_access": "Unauthenticated pinned source URL returned HTTP 404 on 2026-10-20; bundled snapshot is the accessible reproduction source.",
+  "bundled_source": {
+    "path": "misc/solver_source_snapshot.zip",
+    "sha256": "e2af23dceb928d852ebaccf9f508d78619202b14b525d7edb93c2d5e44aec5dd",
+    "manifest": "misc/source_snapshot_manifest.json",
+    "files": 202
+  },
+  "archived_runs_working_copy_sha256_previously_recorded": "1e6a5591b72d418ee7e79b51dcfc4698a45fe748087d3a5c9a8665b864e4e6ef",
+  "archived_runs_hash_note": "archived_runs_sha256 hashes exact Git-blob bytes in the ZIP; earlier working-copy hash can differ due to CRLF conversion."
 }
