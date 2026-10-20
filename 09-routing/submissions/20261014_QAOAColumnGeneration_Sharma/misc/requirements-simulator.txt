@@ -1,0 +1,14 @@
+# Pinned installed environment used to verify the historical simulator campaign. Python 3.12.14.
+dill==0.4.1
+llvmlite==0.50.0
+numba==0.68.0
+numpy==2.5.3
+psutil==7.2.2
+pytest==9.1.1
+python-dateutil==2.9.0.post0
+qiskit==2.5.2
+qiskit-aer==0.17.2
+rustworkx==0.18.1
+scipy==1.18.1
+stevedore==5.9.1
+typing-extensions==4.16.0

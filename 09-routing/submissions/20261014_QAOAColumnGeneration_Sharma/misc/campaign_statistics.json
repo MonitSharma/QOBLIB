@@ -1,0 +1,17 @@
+{
+  "instances": 55,
+  "qaoa_runs": 550,
+  "uniform_runs": 550,
+  "qaoa_feasible_runs": 550,
+  "uniform_feasible_runs": 550,
+  "best_matches_reference": 45,
+  "mean_best_gap_pct": 0.1214441561850167,
+  "max_best_gap_pct": 2.1604938271604937,
+  "qaoa_optimal_runs": 174,
+  "uniform_optimal_runs": 89,
+  "qaoa_wins": 326,
+  "uniform_wins": 165,
+  "ties": 59,
+  "paired_wilcoxon_p": 7.371551342397234e-19,
+  "instance_mean_wilcoxon_p": 1.9582145947686704e-07
+}

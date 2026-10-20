@@ -1,0 +1,506 @@
+{
+  "official_checker_source_sha256": "b4e39b0e4d1f15e1acdddbacb06bf456c10127aa7a6522108e98f003c0b9333a",
+  "official_checker_binary_sha256": "5f8e028c01152cd956fdff78f005a42baff583c7426fc7b06fe49ff9bad8fc64",
+  "source_verification_note": "For a supplied binary, accompanying source matches; compilation provenance is supplied by its owner.",
+  "upstream_commit": "8d0104f5af0cce25de0c973e7a731d138516e665",
+  "instances_passed": 55,
+  "build_log": "Using existing executable and verifying its accompanying source hash.",
+  "structural_validation": "Summary: 55/55 instances passed, 0 failed.\nOverall: OK\n",
+  "results": [
+    {
+      "instance": "XSH-n20-k4-01",
+      "exit_code": 0,
+      "computed_cost": 646,
+      "instance_sha256": "8627b769f0502c0becfe328d3ec37e5457d015204b8455d0408dcae0df202622",
+      "solution_sha256": "ccc26e1ba02f512d5a8a562aa52c10b1b75a575939a62100c60ccac0e7d8944b",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-01\nNumber of customers: 20 (plus depot)\nVehicle capacity: 231\nNumber of routes: 4\n\nRoute #1: OK - load 231 / 231 (cost: 170)\nRoute #2: OK - load 231 / 231 (cost: 177)\nRoute #3: OK - load 231 / 231 (cost: 157)\nRoute #4: OK - load 231 / 231 (cost: 142)\n\nTotal cost: 646\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-02",
+      "exit_code": 0,
+      "computed_cost": 650,
+      "instance_sha256": "37443d727e7399bace0476db4c7ccf78ee155fbd95192987754b95a24af30a87",
+      "solution_sha256": "d4052dc641d4e25cb2ece585144155eaddfdbf0e5e277f85300fde1e55fc8817",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-02\nNumber of customers: 20 (plus depot)\nVehicle capacity: 194\nNumber of routes: 4\n\nRoute #1: OK - load 194 / 194 (cost: 228)\nRoute #2: OK - load 194 / 194 (cost: 151)\nRoute #3: OK - load 194 / 194 (cost: 115)\nRoute #4: OK - load 194 / 194 (cost: 156)\n\nTotal cost: 650\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-03",
+      "exit_code": 0,
+      "computed_cost": 510,
+      "instance_sha256": "e3ce8f25d32bb39f0cb805c6f2ba121fb8f998bec8d73ee39097f0ece133ca01",
+      "solution_sha256": "d930dde8a35f9b077008ae3824d55778ea3710bed62b9d61ee28b8d7b6848738",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-03\nNumber of customers: 20 (plus depot)\nVehicle capacity: 281\nNumber of routes: 4\n\nRoute #1: OK - load 281 / 281 (cost: 128)\nRoute #2: OK - load 281 / 281 (cost: 140)\nRoute #3: OK - load 281 / 281 (cost: 128)\nRoute #4: OK - load 281 / 281 (cost: 114)\n\nTotal cost: 510\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-04",
+      "exit_code": 0,
+      "computed_cost": 776,
+      "instance_sha256": "843ce6e688d6a293eb03282fb74b4923dc98df0d6be72456d0648b0719febf9f",
+      "solution_sha256": "e129bbf53928861563effb5820f7c4bcfc42655c1db7503ee138ded72251c977",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-04\nNumber of customers: 20 (plus depot)\nVehicle capacity: 299\nNumber of routes: 4\n\nRoute #1: OK - load 299 / 299 (cost: 179)\nRoute #2: OK - load 299 / 299 (cost: 240)\nRoute #3: OK - load 299 / 299 (cost: 215)\nRoute #4: OK - load 299 / 299 (cost: 142)\n\nTotal cost: 776\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-05",
+      "exit_code": 0,
+      "computed_cost": 702,
+      "instance_sha256": "fedbbbe46bf40f24da2498ee4a0a021d93419ca60d80c1777f9c8208138d4ab0",
+      "solution_sha256": "7827b8c862d4b398376369596e576a22c8200cb17a4ce557c8d39166a95afc91",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-05\nNumber of customers: 20 (plus depot)\nVehicle capacity: 270\nNumber of routes: 4\n\nRoute #1: OK - load 270 / 270 (cost: 141)\nRoute #2: OK - load 270 / 270 (cost: 153)\nRoute #3: OK - load 270 / 270 (cost: 203)\nRoute #4: OK - load 270 / 270 (cost: 205)\n\nTotal cost: 702\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-06",
+      "exit_code": 0,
+      "computed_cost": 690,
+      "instance_sha256": "a891dd3b5c456362b47683fbf4eaae721a47607225f7a3d4a998092fa3f2cc06",
+      "solution_sha256": "7f117bd82c9f3d5440e1f4edf5dfd038499ae8f442fa71dc1f7333dcc6742fc4",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-06\nNumber of customers: 20 (plus depot)\nVehicle capacity: 210\nNumber of routes: 4\n\nRoute #1: OK - load 210 / 210 (cost: 197)\nRoute #2: OK - load 210 / 210 (cost: 201)\nRoute #3: OK - load 210 / 210 (cost: 234)\nRoute #4: OK - load 210 / 210 (cost: 58)\n\nTotal cost: 690\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-07",
+      "exit_code": 0,
+      "computed_cost": 730,
+      "instance_sha256": "0a322b9d518e70814e56fbbcb876b5caca1713394bec3b352c9e3860cd8b20a9",
+      "solution_sha256": "05077111f89b7dd035db1e9cb7a9cb6d71a3f6d0451813e9d099ac2dafb0abb1",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-07\nNumber of customers: 20 (plus depot)\nVehicle capacity: 221\nNumber of routes: 4\n\nRoute #1: OK - load 221 / 221 (cost: 96)\nRoute #2: OK - load 221 / 221 (cost: 104)\nRoute #3: OK - load 221 / 221 (cost: 246)\nRoute #4: OK - load 221 / 221 (cost: 284)\n\nTotal cost: 730\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-08",
+      "exit_code": 0,
+      "computed_cost": 720,
+      "instance_sha256": "5eee25f1e906e5c41a83589fc93ec14d30cdc96254183e1af1744a63a8dcbe95",
+      "solution_sha256": "9836dbf97cc9d3fcd47b2d1ea994df95911e36fec795c8fc4668361621edb25f",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-08\nNumber of customers: 20 (plus depot)\nVehicle capacity: 180\nNumber of routes: 4\n\nRoute #1: OK - load 180 / 180 (cost: 153)\nRoute #2: OK - load 180 / 180 (cost: 195)\nRoute #3: OK - load 180 / 180 (cost: 154)\nRoute #4: OK - load 180 / 180 (cost: 218)\n\nTotal cost: 720\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-09",
+      "exit_code": 0,
+      "computed_cost": 721,
+      "instance_sha256": "97df6a96ed97cf0ccd12dbdf12c1dff62028da3a5ef9ca32f7a5b5448b98d73d",
+      "solution_sha256": "669ae8189b6305145a4f55e6732052bd169b4cbb362ec4c836173af67571e6c1",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-09\nNumber of customers: 20 (plus depot)\nVehicle capacity: 180\nNumber of routes: 4\n\nRoute #1: OK - load 180 / 180 (cost: 119)\nRoute #2: OK - load 180 / 180 (cost: 202)\nRoute #3: OK - load 180 / 180 (cost: 154)\nRoute #4: OK - load 180 / 180 (cost: 246)\n\nTotal cost: 721\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-10",
+      "exit_code": 0,
+      "computed_cost": 737,
+      "instance_sha256": "0be22cd2b81ed5feef1a041c94f02c9759586afbd30f30a8811860d6617921c9",
+      "solution_sha256": "89016ab4682c0fdd51854947807f10bf506d9e851243f6b637f8cfb4b54e60ef",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-10\nNumber of customers: 20 (plus depot)\nVehicle capacity: 239\nNumber of routes: 4\n\nRoute #1: OK - load 239 / 239 (cost: 144)\nRoute #2: OK - load 239 / 239 (cost: 220)\nRoute #3: OK - load 239 / 239 (cost: 242)\nRoute #4: OK - load 239 / 239 (cost: 131)\n\nTotal cost: 737\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-11",
+      "exit_code": 0,
+      "computed_cost": 914,
+      "instance_sha256": "37efd5ccb6411b6ea63471d6075fb25ffd11b4dd8875c270c3970f8b56915e8e",
+      "solution_sha256": "8208519e62b1bd7c6767697d89715683c70dbb63c1304fa0ac12eab891a8bbbc",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-11\nNumber of customers: 20 (plus depot)\nVehicle capacity: 251\nNumber of routes: 4\n\nRoute #1: OK - load 251 / 251 (cost: 289)\nRoute #2: OK - load 251 / 251 (cost: 246)\nRoute #3: OK - load 251 / 251 (cost: 122)\nRoute #4: OK - load 251 / 251 (cost: 257)\n\nTotal cost: 914\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-12",
+      "exit_code": 0,
+      "computed_cost": 709,
+      "instance_sha256": "ce6ee06a37e08ddc3459897e4ec6ac50dfcd4e2ef86c44e7ef019a371fb1a77c",
+      "solution_sha256": "45703d481499219658e818ed302fa3f2cd86f5ee244f8437445d5ec6e850b062",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-12\nNumber of customers: 20 (plus depot)\nVehicle capacity: 249\nNumber of routes: 4\n\nRoute #1: OK - load 249 / 249 (cost: 238)\nRoute #2: OK - load 249 / 249 (cost: 116)\nRoute #3: OK - load 249 / 249 (cost: 175)\nRoute #4: OK - load 249 / 249 (cost: 180)\n\nTotal cost: 709\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-13",
+      "exit_code": 0,
+      "computed_cost": 628,
+      "instance_sha256": "f78a80553b45158b2a5d6cc5346f7468d4c608906b0192526799070b725eac78",
+      "solution_sha256": "701a59b2b945da786a28b988657fb451250398dc6daefd68939142c66f353c09",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-13\nNumber of customers: 20 (plus depot)\nVehicle capacity: 194\nNumber of routes: 4\n\nRoute #1: OK - load 194 / 194 (cost: 132)\nRoute #2: OK - load 194 / 194 (cost: 229)\nRoute #3: OK - load 194 / 194 (cost: 166)\nRoute #4: OK - load 194 / 194 (cost: 101)\n\nTotal cost: 628\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-14",
+      "exit_code": 0,
+      "computed_cost": 696,
+      "instance_sha256": "4d246dec24a440ca726f808468b5b7ee735b52d806d53bdb356f27fa3aba1eef",
+      "solution_sha256": "3b172eafff3c99e278c12d3f8d8b9f5ed368a919e04b3b8b5df3d9bb6d71fd02",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-14\nNumber of customers: 20 (plus depot)\nVehicle capacity: 267\nNumber of routes: 4\n\nRoute #1: OK - load 267 / 267 (cost: 121)\nRoute #2: OK - load 267 / 267 (cost: 139)\nRoute #3: OK - load 267 / 267 (cost: 220)\nRoute #4: OK - load 267 / 267 (cost: 216)\n\nTotal cost: 696\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-15",
+      "exit_code": 0,
+      "computed_cost": 780,
+      "instance_sha256": "128a9cde2ba63562762b9e68be62716e0b19d2f0b72685c764699f5fcb980989",
+      "solution_sha256": "9f6d011b23f19ba16bfb202bb874387330ac6386a53ce138b0e30cd5d5a916f1",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-15\nNumber of customers: 20 (plus depot)\nVehicle capacity: 257\nNumber of routes: 4\n\nRoute #1: OK - load 257 / 257 (cost: 184)\nRoute #2: OK - load 257 / 257 (cost: 167)\nRoute #3: OK - load 257 / 257 (cost: 249)\nRoute #4: OK - load 257 / 257 (cost: 180)\n\nTotal cost: 780\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-16",
+      "exit_code": 0,
+      "computed_cost": 830,
+      "instance_sha256": "e47a2bf4db9b5d8a57f247fa432c4b992ad6d3303f9571d6af9d7b28036cbd67",
+      "solution_sha256": "06b11cf860134489a435d619ec094e8fa4f55dde59633e7bb6b57bef5ce34af5",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-16\nNumber of customers: 20 (plus depot)\nVehicle capacity: 230\nNumber of routes: 4\n\nRoute #1: OK - load 230 / 230 (cost: 148)\nRoute #2: OK - load 230 / 230 (cost: 291)\nRoute #3: OK - load 230 / 230 (cost: 117)\nRoute #4: OK - load 230 / 230 (cost: 274)\n\nTotal cost: 830\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-17",
+      "exit_code": 0,
+      "computed_cost": 605,
+      "instance_sha256": "084a6c7563ed7316916825bf8a34aba606fca0dbac4f8432083d578cd53e3b1d",
+      "solution_sha256": "3b89cb93e0b7d5e2be9230a5f33c5bc486eb74a42a3bf3be0c15626fc38f9da0",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-17\nNumber of customers: 20 (plus depot)\nVehicle capacity: 253\nNumber of routes: 4\n\nRoute #1: OK - load 253 / 253 (cost: 207)\nRoute #2: OK - load 253 / 253 (cost: 122)\nRoute #3: OK - load 253 / 253 (cost: 123)\nRoute #4: OK - load 253 / 253 (cost: 153)\n\nTotal cost: 605\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-18",
+      "exit_code": 0,
+      "computed_cost": 997,
+      "instance_sha256": "c530724d0123830c743c8fe12e218d2343deeb633ab7ce604964ad155484b596",
+      "solution_sha256": "247d5affc97e65e31d134b43462692e62a77c736e7f2c21e346ced4a0598d976",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-18\nNumber of customers: 20 (plus depot)\nVehicle capacity: 257\nNumber of routes: 4\n\nRoute #1: OK - load 257 / 257 (cost: 224)\nRoute #2: OK - load 257 / 257 (cost: 176)\nRoute #3: OK - load 257 / 257 (cost: 347)\nRoute #4: OK - load 257 / 257 (cost: 250)\n\nTotal cost: 997\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-19",
+      "exit_code": 0,
+      "computed_cost": 976,
+      "instance_sha256": "561f2d543cb727d99f579d6b228350bc5698ad384ff2589106a3629e28a1cecd",
+      "solution_sha256": "3124b48e42bb4d59ec53e5c008670e69b689d31c27c2fb57f562392d876458e8",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-19\nNumber of customers: 20 (plus depot)\nVehicle capacity: 269\nNumber of routes: 4\n\nRoute #1: OK - load 269 / 269 (cost: 197)\nRoute #2: OK - load 269 / 269 (cost: 314)\nRoute #3: OK - load 269 / 269 (cost: 226)\nRoute #4: OK - load 269 / 269 (cost: 239)\n\nTotal cost: 976\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-20",
+      "exit_code": 0,
+      "computed_cost": 662,
+      "instance_sha256": "108c9999098aaf7352a70d473a8c4441d6c265b294de79d43f9454f33d59d508",
+      "solution_sha256": "1fb86d6023425d64bcebdb0053c7e6b179f44c72ed0e26d3d2f1d2c18c029ce1",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-20\nNumber of customers: 20 (plus depot)\nVehicle capacity: 276\nNumber of routes: 4\n\nRoute #1: OK - load 276 / 276 (cost: 98)\nRoute #2: OK - load 276 / 276 (cost: 239)\nRoute #3: OK - load 276 / 276 (cost: 205)\nRoute #4: OK - load 276 / 276 (cost: 120)\n\nTotal cost: 662\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-21",
+      "exit_code": 0,
+      "computed_cost": 843,
+      "instance_sha256": "5bc158ed16d59e0304d36549b658bf41048564c56529bd2142d50de738af0011",
+      "solution_sha256": "0751dd729057a9347a2d13858233bde21260d5f324dea5b8a383b585e214ac61",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-21\nNumber of customers: 20 (plus depot)\nVehicle capacity: 275\nNumber of routes: 4\n\nRoute #1: OK - load 275 / 275 (cost: 202)\nRoute #2: OK - load 275 / 275 (cost: 230)\nRoute #3: OK - load 275 / 275 (cost: 221)\nRoute #4: OK - load 275 / 275 (cost: 190)\n\nTotal cost: 843\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-22",
+      "exit_code": 0,
+      "computed_cost": 760,
+      "instance_sha256": "5baa4aee5d80e15f700dde9a933f68621e6d97e4870b9edef79b07e337a44ec2",
+      "solution_sha256": "3a26794560b5d8e03d02fdaa1298929f55ca4bc91fd39df9838dc7eb57b6af46",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-22\nNumber of customers: 20 (plus depot)\nVehicle capacity: 253\nNumber of routes: 4\n\nRoute #1: OK - load 253 / 253 (cost: 179)\nRoute #2: OK - load 253 / 253 (cost: 192)\nRoute #3: OK - load 253 / 253 (cost: 173)\nRoute #4: OK - load 253 / 253 (cost: 216)\n\nTotal cost: 760\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-23",
+      "exit_code": 0,
+      "computed_cost": 851,
+      "instance_sha256": "d2d1085339ff7d51fa61cb46cb943090c95f7d32aafe1c402b8e3e5c71f0efb5",
+      "solution_sha256": "5d6d67c26935d6493f47e8f10047c0feedbbd648bddff503384292ffaf83d50d",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-23\nNumber of customers: 20 (plus depot)\nVehicle capacity: 258\nNumber of routes: 4\n\nRoute #1: OK - load 258 / 258 (cost: 247)\nRoute #2: OK - load 258 / 258 (cost: 203)\nRoute #3: OK - load 258 / 258 (cost: 226)\nRoute #4: OK - load 258 / 258 (cost: 175)\n\nTotal cost: 851\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-24",
+      "exit_code": 0,
+      "computed_cost": 725,
+      "instance_sha256": "a07b9f7b7f04bbe501449d1adb0968e1b32fcd19236ca87a96fd2b13dbfe6dda",
+      "solution_sha256": "5065954e4ddbd851d885c67bfcc5778b16ca33001ca927b01a55ca9564a4fe23",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-24\nNumber of customers: 20 (plus depot)\nVehicle capacity: 205\nNumber of routes: 4\n\nRoute #1: OK - load 205 / 205 (cost: 176)\nRoute #2: OK - load 205 / 205 (cost: 161)\nRoute #3: OK - load 205 / 205 (cost: 162)\nRoute #4: OK - load 205 / 205 (cost: 226)\n\nTotal cost: 725\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-25",
+      "exit_code": 0,
+      "computed_cost": 462,
+      "instance_sha256": "f8b670ab19ef85cb7c415b74892494f78b70fa3b8b0877340f68cc2318d4382b",
+      "solution_sha256": "a443b6af5d3a3003c692725a7c07f7d4f4a87a84d4c8126f4e8d38d656360dca",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-25\nNumber of customers: 20 (plus depot)\nVehicle capacity: 240\nNumber of routes: 4\n\nRoute #1: OK - load 240 / 240 (cost: 98)\nRoute #2: OK - load 240 / 240 (cost: 112)\nRoute #3: OK - load 240 / 240 (cost: 96)\nRoute #4: OK - load 240 / 240 (cost: 156)\n\nTotal cost: 462\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-26",
+      "exit_code": 0,
+      "computed_cost": 688,
+      "instance_sha256": "104f0faa6895bb62279b59fcddd44e1ce7bba1359b74cac53ed3d91ecbc10d70",
+      "solution_sha256": "46dcd12f54f9d7face5535533e019fc25d64e7d8eae8501b2c5c93508c5a16c9",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-26\nNumber of customers: 20 (plus depot)\nVehicle capacity: 299\nNumber of routes: 4\n\nRoute #1: OK - load 299 / 299 (cost: 199)\nRoute #2: OK - load 299 / 299 (cost: 209)\nRoute #3: OK - load 299 / 299 (cost: 114)\nRoute #4: OK - load 299 / 299 (cost: 166)\n\nTotal cost: 688\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-27",
+      "exit_code": 0,
+      "computed_cost": 540,
+      "instance_sha256": "911618dd9394225eb04a401a7484ca5dfa7b2a8bf30a4cf5264139f32f580943",
+      "solution_sha256": "87b81cbed5efc57ea738c35fde262ba52efc05c1e2fbffab3db7b664dd6eb9d5",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-27\nNumber of customers: 20 (plus depot)\nVehicle capacity: 244\nNumber of routes: 4\n\nRoute #1: OK - load 244 / 244 (cost: 158)\nRoute #2: OK - load 244 / 244 (cost: 155)\nRoute #3: OK - load 244 / 244 (cost: 115)\nRoute #4: OK - load 244 / 244 (cost: 112)\n\nTotal cost: 540\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-28",
+      "exit_code": 0,
+      "computed_cost": 669,
+      "instance_sha256": "7ab90328eb67c737950ee6e9cc6c936c6e91a1f2784660b74a7356151515e43a",
+      "solution_sha256": "81d675d58db443574a71cbe90a7873fc5e3406b6fd2a46d44817eb85c49a0f1e",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-28\nNumber of customers: 20 (plus depot)\nVehicle capacity: 211\nNumber of routes: 4\n\nRoute #1: OK - load 211 / 211 (cost: 194)\nRoute #2: OK - load 211 / 211 (cost: 169)\nRoute #3: OK - load 211 / 211 (cost: 90)\nRoute #4: OK - load 211 / 211 (cost: 216)\n\nTotal cost: 669\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-29",
+      "exit_code": 0,
+      "computed_cost": 658,
+      "instance_sha256": "3e10fecc0d3298a911cfd45385e5a46086d252baa6a440adaff4917effb6647c",
+      "solution_sha256": "499c253172e0f25635d734114ed97efd521c67ceb23d059c2845b0a5e2f3117e",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-29\nNumber of customers: 20 (plus depot)\nVehicle capacity: 229\nNumber of routes: 4\n\nRoute #1: OK - load 229 / 229 (cost: 189)\nRoute #2: OK - load 229 / 229 (cost: 116)\nRoute #3: OK - load 229 / 229 (cost: 185)\nRoute #4: OK - load 229 / 229 (cost: 168)\n\nTotal cost: 658\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-30",
+      "exit_code": 0,
+      "computed_cost": 685,
+      "instance_sha256": "51384894849b4e8f65e9a0141593b00d713f1344f53b4f7dfcdf2e0e34816896",
+      "solution_sha256": "141cbe0da64ac60c9d2ca301db326a4cb7629af547f94d0028d831f7bbee39df",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-30\nNumber of customers: 20 (plus depot)\nVehicle capacity: 262\nNumber of routes: 4\n\nRoute #1: OK - load 262 / 262 (cost: 159)\nRoute #2: OK - load 262 / 262 (cost: 190)\nRoute #3: OK - load 262 / 262 (cost: 152)\nRoute #4: OK - load 262 / 262 (cost: 184)\n\nTotal cost: 685\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-31",
+      "exit_code": 0,
+      "computed_cost": 445,
+      "instance_sha256": "d5027150b32ae3e9fc9b2ee887c3a69a0b428c45ed8e31d779f07ef136956967",
+      "solution_sha256": "8e0da32a002d288829f0ae93ec66a1704b6e4ae196212e7b401703c1b2a7d37b",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-31\nNumber of customers: 20 (plus depot)\nVehicle capacity: 259\nNumber of routes: 4\n\nRoute #1: OK - load 259 / 259 (cost: 86)\nRoute #2: OK - load 259 / 259 (cost: 132)\nRoute #3: OK - load 259 / 259 (cost: 86)\nRoute #4: OK - load 259 / 259 (cost: 141)\n\nTotal cost: 445\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-32",
+      "exit_code": 0,
+      "computed_cost": 882,
+      "instance_sha256": "365a5ff9b0d526e4e6fe5bdd0e7621fe2e857098a27cff2736f106181afdaf4a",
+      "solution_sha256": "f3a51ab7d40cc1c79f005200f07e33bf83901e7d0777eb444f253845b89d516e",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-32\nNumber of customers: 20 (plus depot)\nVehicle capacity: 197\nNumber of routes: 4\n\nRoute #1: OK - load 197 / 197 (cost: 286)\nRoute #2: OK - load 197 / 197 (cost: 188)\nRoute #3: OK - load 197 / 197 (cost: 170)\nRoute #4: OK - load 197 / 197 (cost: 238)\n\nTotal cost: 882\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-33",
+      "exit_code": 0,
+      "computed_cost": 568,
+      "instance_sha256": "d290c9c7e3212c9ad565a4981bb86cc6f2811ba2522864b1764c5b00f1dc227e",
+      "solution_sha256": "9eef259492bef91c3f34447c537970f08bdc9a1b658b2303778fe751a06b5a91",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-33\nNumber of customers: 20 (plus depot)\nVehicle capacity: 250\nNumber of routes: 4\n\nRoute #1: OK - load 250 / 250 (cost: 217)\nRoute #2: OK - load 250 / 250 (cost: 71)\nRoute #3: OK - load 250 / 250 (cost: 157)\nRoute #4: OK - load 250 / 250 (cost: 123)\n\nTotal cost: 568\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-34",
+      "exit_code": 0,
+      "computed_cost": 891,
+      "instance_sha256": "3be07ceae41912ec9d184db8e9e24814215ec2f6e1f7b298c2d44cccccfd6472",
+      "solution_sha256": "e20a1a6e9fb66156144d1c7cddc30b7906f4b12861bff5585b8fcfdae0afdcba",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-34\nNumber of customers: 20 (plus depot)\nVehicle capacity: 270\nNumber of routes: 4\n\nRoute #1: OK - load 270 / 270 (cost: 257)\nRoute #2: OK - load 270 / 270 (cost: 173)\nRoute #3: OK - load 270 / 270 (cost: 184)\nRoute #4: OK - load 270 / 270 (cost: 277)\n\nTotal cost: 891\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-35",
+      "exit_code": 0,
+      "computed_cost": 707,
+      "instance_sha256": "5e729b9329f76416c11079cad5e64a19f80bf65fdba35bd42bb64a888731951d",
+      "solution_sha256": "a04cf6658bcb5aec89faf474f1218fea0ba6e994fc00b6d2da3942304076d883",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-35\nNumber of customers: 20 (plus depot)\nVehicle capacity: 284\nNumber of routes: 4\n\nRoute #1: OK - load 284 / 284 (cost: 129)\nRoute #2: OK - load 284 / 284 (cost: 225)\nRoute #3: OK - load 284 / 284 (cost: 149)\nRoute #4: OK - load 284 / 284 (cost: 204)\n\nTotal cost: 707\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-36",
+      "exit_code": 0,
+      "computed_cost": 610,
+      "instance_sha256": "81c6c863adc82d2a5ea917a68c3015eb141f8ca71a20c74f67ac5f029d51e8c7",
+      "solution_sha256": "8e852154f2dec14748968b4006c214dead2b5ae106d7de7f968eb9e69f6d78e3",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-36\nNumber of customers: 20 (plus depot)\nVehicle capacity: 226\nNumber of routes: 4\n\nRoute #1: OK - load 226 / 226 (cost: 120)\nRoute #2: OK - load 226 / 226 (cost: 178)\nRoute #3: OK - load 226 / 226 (cost: 191)\nRoute #4: OK - load 226 / 226 (cost: 121)\n\nTotal cost: 610\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-37",
+      "exit_code": 0,
+      "computed_cost": 650,
+      "instance_sha256": "b3cfce3dca1f18bc2a6f0ebe14186da23c3657c6fb88a4a6269f7d52a8c4ecf1",
+      "solution_sha256": "3e8b1b992a56072e12d1069ca169751bc794ec2ccc81614691dda1b77328966c",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-37\nNumber of customers: 20 (plus depot)\nVehicle capacity: 245\nNumber of routes: 4\n\nRoute #1: OK - load 245 / 245 (cost: 204)\nRoute #2: OK - load 245 / 245 (cost: 94)\nRoute #3: OK - load 245 / 245 (cost: 203)\nRoute #4: OK - load 245 / 245 (cost: 149)\n\nTotal cost: 650\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-38",
+      "exit_code": 0,
+      "computed_cost": 993,
+      "instance_sha256": "ffb880a7ed0dabab2fa6918346c706c0ee24927acdfa67b61f4a7f35da7fb20a",
+      "solution_sha256": "74ca2e0dbf227c66287a79fa1875792deabf1b79105d60f8dd56f4c8683cca2a",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-38\nNumber of customers: 20 (plus depot)\nVehicle capacity: 234\nNumber of routes: 4\n\nRoute #1: OK - load 234 / 234 (cost: 198)\nRoute #2: OK - load 234 / 234 (cost: 258)\nRoute #3: OK - load 234 / 234 (cost: 266)\nRoute #4: OK - load 234 / 234 (cost: 271)\n\nTotal cost: 993\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-39",
+      "exit_code": 0,
+      "computed_cost": 718,
+      "instance_sha256": "e579bd6052411511154fc063f19c0184c35f252f6bd36942646f6f08f04b50b2",
+      "solution_sha256": "ece65ca570c94b9905d9b6ac841159497940f8cb75fceb7060c624a07e454f47",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-39\nNumber of customers: 20 (plus depot)\nVehicle capacity: 234\nNumber of routes: 4\n\nRoute #1: OK - load 234 / 234 (cost: 172)\nRoute #2: OK - load 234 / 234 (cost: 181)\nRoute #3: OK - load 234 / 234 (cost: 142)\nRoute #4: OK - load 234 / 234 (cost: 223)\n\nTotal cost: 718\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-40",
+      "exit_code": 0,
+      "computed_cost": 700,
+      "instance_sha256": "79cbfac81732851338c1966bc36c16a5c9d0259fb453490808bd2be23c4e2f18",
+      "solution_sha256": "b6ee2d29599dba85111d67622a4379713edfe4c7e9b59e1569a43e4212fce0b0",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-40\nNumber of customers: 20 (plus depot)\nVehicle capacity: 234\nNumber of routes: 4\n\nRoute #1: OK - load 234 / 234 (cost: 176)\nRoute #2: OK - load 234 / 234 (cost: 191)\nRoute #3: OK - load 234 / 234 (cost: 186)\nRoute #4: OK - load 234 / 234 (cost: 147)\n\nTotal cost: 700\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-41",
+      "exit_code": 0,
+      "computed_cost": 740,
+      "instance_sha256": "dec61f9aed30f5c03e29080c53fe06afee06471148770013d7cc77e05bb0bb18",
+      "solution_sha256": "117c2d234fc97a40a9d2fe4a6af07d1772c00d4ab75cca060c602a2781bc2504",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-41\nNumber of customers: 20 (plus depot)\nVehicle capacity: 245\nNumber of routes: 4\n\nRoute #1: OK - load 245 / 245 (cost: 214)\nRoute #2: OK - load 245 / 245 (cost: 217)\nRoute #3: OK - load 245 / 245 (cost: 225)\nRoute #4: OK - load 245 / 245 (cost: 84)\n\nTotal cost: 740\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-42",
+      "exit_code": 0,
+      "computed_cost": 998,
+      "instance_sha256": "e276cd146522144a94f81ec801ea346eb6fe5e0d361ed45108ed0e175be3b932",
+      "solution_sha256": "c3592d1c937cb9460a6710a8850276a3433d5df1af597d8ec8addff868a9e733",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-42\nNumber of customers: 20 (plus depot)\nVehicle capacity: 232\nNumber of routes: 4\n\nRoute #1: OK - load 232 / 232 (cost: 222)\nRoute #2: OK - load 232 / 232 (cost: 253)\nRoute #3: OK - load 232 / 232 (cost: 202)\nRoute #4: OK - load 232 / 232 (cost: 321)\n\nTotal cost: 998\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-43",
+      "exit_code": 0,
+      "computed_cost": 465,
+      "instance_sha256": "d993d4de1e73f1af808d430be47eb4092c531ff2a3508e048c6f1c18826669d6",
+      "solution_sha256": "b13bef5c341bb04d3c6625b720b2de5b95df43d33d2029fd0c08563eeaf815d1",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-43\nNumber of customers: 20 (plus depot)\nVehicle capacity: 240\nNumber of routes: 4\n\nRoute #1: OK - load 240 / 240 (cost: 134)\nRoute #2: OK - load 240 / 240 (cost: 108)\nRoute #3: OK - load 240 / 240 (cost: 106)\nRoute #4: OK - load 240 / 240 (cost: 117)\n\nTotal cost: 465\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-44",
+      "exit_code": 0,
+      "computed_cost": 979,
+      "instance_sha256": "eb6642965d97457e2e76173451267480a2a6808438ba4ba1057665698f90699b",
+      "solution_sha256": "8f8e1dce32704fddfa8676b7f0da279d713c3e1b3ed20a3289959755ee2337e2",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-44\nNumber of customers: 20 (plus depot)\nVehicle capacity: 235\nNumber of routes: 4\n\nRoute #1: OK - load 235 / 235 (cost: 244)\nRoute #2: OK - load 235 / 235 (cost: 197)\nRoute #3: OK - load 235 / 235 (cost: 304)\nRoute #4: OK - load 235 / 235 (cost: 234)\n\nTotal cost: 979\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-45",
+      "exit_code": 0,
+      "computed_cost": 1071,
+      "instance_sha256": "eab04c2da2b3e55a64f992d2aa0353e503d84b646707ac2bc94735fcdcdc2d99",
+      "solution_sha256": "eeb2d8ebd46ef2efce51434c7b20ed981ee4ed063633022dffd835495eb875d3",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-45\nNumber of customers: 20 (plus depot)\nVehicle capacity: 279\nNumber of routes: 4\n\nRoute #1: OK - load 279 / 279 (cost: 252)\nRoute #2: OK - load 279 / 279 (cost: 218)\nRoute #3: OK - load 279 / 279 (cost: 253)\nRoute #4: OK - load 279 / 279 (cost: 348)\n\nTotal cost: 1071\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-46",
+      "exit_code": 0,
+      "computed_cost": 814,
+      "instance_sha256": "7941df89ddb28f977ea6a3cf81f162bbf6f7427809240119f6fe03b6fc4b9f6e",
+      "solution_sha256": "969300adf59f97964ab807eaa65cb583781bd952218cd26b03c3f7f7b1e63f1b",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-46\nNumber of customers: 20 (plus depot)\nVehicle capacity: 210\nNumber of routes: 4\n\nRoute #1: OK - load 210 / 210 (cost: 196)\nRoute #2: OK - load 210 / 210 (cost: 238)\nRoute #3: OK - load 210 / 210 (cost: 159)\nRoute #4: OK - load 210 / 210 (cost: 221)\n\nTotal cost: 814\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-47",
+      "exit_code": 0,
+      "computed_cost": 583,
+      "instance_sha256": "8769e7a6c5f574c0c1dda395e62ced391c371b4d3a116e9a0561648e8750b2fe",
+      "solution_sha256": "757a38e57e5acd180c4ede72965376fbbd912bcb53edf07c957d0333d6c98202",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-47\nNumber of customers: 20 (plus depot)\nVehicle capacity: 266\nNumber of routes: 4\n\nRoute #1: OK - load 266 / 266 (cost: 184)\nRoute #2: OK - load 266 / 266 (cost: 124)\nRoute #3: OK - load 266 / 266 (cost: 92)\nRoute #4: OK - load 266 / 266 (cost: 183)\n\nTotal cost: 583\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-48",
+      "exit_code": 0,
+      "computed_cost": 544,
+      "instance_sha256": "3f27c82b2e999948f7e52e3b1a1d1a5f09d93f2878e52f4ae91ee5e1994a0269",
+      "solution_sha256": "f44c3719b6cd4ae0f873902006d4534748a20da87bab73763863dea2f73afb25",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-48\nNumber of customers: 20 (plus depot)\nVehicle capacity: 220\nNumber of routes: 4\n\nRoute #1: OK - load 220 / 220 (cost: 251)\nRoute #2: OK - load 220 / 220 (cost: 153)\nRoute #3: OK - load 220 / 220 (cost: 61)\nRoute #4: OK - load 220 / 220 (cost: 79)\n\nTotal cost: 544\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-49",
+      "exit_code": 0,
+      "computed_cost": 1045,
+      "instance_sha256": "625f91590751a2feefc9594a4143bb168b6d870f0d3d5a4b03511b86388c79ba",
+      "solution_sha256": "fe64bf2c1111402c869e8a1d844ae1ec7c45512600c2680c7b06715c106a4857",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-49\nNumber of customers: 20 (plus depot)\nVehicle capacity: 233\nNumber of routes: 4\n\nRoute #1: OK - load 233 / 233 (cost: 223)\nRoute #2: OK - load 233 / 233 (cost: 197)\nRoute #3: OK - load 233 / 233 (cost: 342)\nRoute #4: OK - load 233 / 233 (cost: 283)\n\nTotal cost: 1045\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-50",
+      "exit_code": 0,
+      "computed_cost": 627,
+      "instance_sha256": "ee26434c6284367c712611ffde660a1c5b9d289096eb46930c3769c291953443",
+      "solution_sha256": "e2d9ea53b2d91dd25af668c6fa19aead33744576db381aa4f826951a774c8de1",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-50\nNumber of customers: 20 (plus depot)\nVehicle capacity: 245\nNumber of routes: 4\n\nRoute #1: OK - load 245 / 245 (cost: 199)\nRoute #2: OK - load 245 / 245 (cost: 137)\nRoute #3: OK - load 245 / 245 (cost: 207)\nRoute #4: OK - load 245 / 245 (cost: 84)\n\nTotal cost: 627\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-51",
+      "exit_code": 0,
+      "computed_cost": 491,
+      "instance_sha256": "54ee20262fbffeb45e72288532cbb141bcaff6881c46d7788f3f37d9ff25a972",
+      "solution_sha256": "f2998987497c0005ddbc2e5c83a5b121d6ba273998c9363692430928040c9ca0",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-51\nNumber of customers: 20 (plus depot)\nVehicle capacity: 228\nNumber of routes: 4\n\nRoute #1: OK - load 228 / 228 (cost: 134)\nRoute #2: OK - load 228 / 228 (cost: 78)\nRoute #3: OK - load 228 / 228 (cost: 174)\nRoute #4: OK - load 228 / 228 (cost: 105)\n\nTotal cost: 491\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-52",
+      "exit_code": 0,
+      "computed_cost": 622,
+      "instance_sha256": "427d07c99c037e2b7e2ace6b767921345e4c88029319feefc5e6410a49d201c9",
+      "solution_sha256": "0226057006aef6412f4e9988c4d356d76b32dd9f9ca4677c1cd26d75dc984871",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-52\nNumber of customers: 20 (plus depot)\nVehicle capacity: 210\nNumber of routes: 4\n\nRoute #1: OK - load 210 / 210 (cost: 226)\nRoute #2: OK - load 210 / 210 (cost: 133)\nRoute #3: OK - load 210 / 210 (cost: 142)\nRoute #4: OK - load 210 / 210 (cost: 121)\n\nTotal cost: 622\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-53",
+      "exit_code": 0,
+      "computed_cost": 967,
+      "instance_sha256": "8d1efeffeec724be8d8b471334ff2e4eea4df0dd3062443f480594dd1f679ecb",
+      "solution_sha256": "d68f30c7da9ee1f563a87ed174c0f4fc90882947a256ffb08a83053985ba85ef",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-53\nNumber of customers: 20 (plus depot)\nVehicle capacity: 297\nNumber of routes: 4\n\nRoute #1: OK - load 297 / 297 (cost: 289)\nRoute #2: OK - load 297 / 297 (cost: 265)\nRoute #3: OK - load 297 / 297 (cost: 197)\nRoute #4: OK - load 297 / 297 (cost: 216)\n\nTotal cost: 967\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-54",
+      "exit_code": 0,
+      "computed_cost": 791,
+      "instance_sha256": "163c7bc2c2153bfef6a01eb1ef9ee5a8fa97d6afc6464e769e8cb179d52f03da",
+      "solution_sha256": "e2b2f312897ff0e8689250fc44873c97862d23a9becf6eb78eb2f630f7eda7fb",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-54\nNumber of customers: 20 (plus depot)\nVehicle capacity: 198\nNumber of routes: 4\n\nRoute #1: OK - load 198 / 198 (cost: 149)\nRoute #2: OK - load 198 / 198 (cost: 157)\nRoute #3: OK - load 198 / 198 (cost: 228)\nRoute #4: OK - load 198 / 198 (cost: 257)\n\nTotal cost: 791\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    },
+    {
+      "instance": "XSH-n20-k4-55",
+      "exit_code": 0,
+      "computed_cost": 617,
+      "instance_sha256": "24ef9710b3500105d845c9a89691a5b2d0cf2ecf0a1c7ea1deb4cfc3a4171155",
+      "solution_sha256": "5ecbf507959fac6ccd6fe274db85d489497c89badc9141fd981f9f193aa4b7bc",
+      "stdout": "QOBLIB CVRP Solution Checker Version 1.0\n\nInstance: XSH-n20-k4-55\nNumber of customers: 20 (plus depot)\nVehicle capacity: 289\nNumber of routes: 4\n\nRoute #1: OK - load 289 / 289 (cost: 137)\nRoute #2: OK - load 289 / 289 (cost: 135)\nRoute #3: OK - load 289 / 289 (cost: 191)\nRoute #4: OK - load 289 / 289 (cost: 154)\n\nTotal cost: 617\n\nVALID: Solution successfully verified\n",
+      "stderr": ""
+    }
+  ]
+}
